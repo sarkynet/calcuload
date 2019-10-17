@@ -15,5 +15,3 @@
 4. Delete
 5. Search Option
 6. Pagination
-
-<a  href="http://dev.techcanvas.org/angularjs-php-mysql-crud-demo/" target="_blank" >Demo</a>
