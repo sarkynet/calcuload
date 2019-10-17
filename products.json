@@ -1,0 +1,399 @@
+[{"Batteries": [
+    {"100AH": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"150AH": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"200AH": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"500AH": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"650AH": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"1000AH": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"1500AH": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    }]
+},
+{"Panels": [
+    {"80W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"100W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"130W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"150W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"160W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"200W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"250W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"270W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"300W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"325W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"350W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    },
+    {"400W": [
+        {"Low": 40000, "High": 60000, "Country": "China"},
+        {"Low": 40000, "High": 60000, "Country": "India"},
+        {"Low": 40000, "High": 60000, "Country": "Europe"}]
+    }]
+},
+{"Controllers": [
+    {"MPPT": [
+        {"10A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"15A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"20A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"25A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"30A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"40A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"45A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"50A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"60A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"80A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        }]
+    },
+    {"PWM": [
+        {"10A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"15A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"20A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"25A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"30A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"40A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"45A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"50A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"60A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        },
+        {"80A": [
+            {"Low": 40000, "High": 60000, "Country": "China"},
+            {"Low": 40000, "High": 60000, "Country": "India"},
+            {"Low": 40000, "High": 60000, "Country": "Europe"}]
+        }]
+    }]
+},
+{"Inverters": [
+    {"500VA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"650VA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"800VA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"850VA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"900VA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"1KVA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"1.5KVA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"2KVA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"2.5KVA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"3KVA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"3.5KVA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"5KVA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"10KVA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"15KVA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"20KVA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    },
+    {"30KVA": [
+        {"Normal": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        },
+        {"Hybrid": [
+            {"Low": 40000, "High": 60000, "Country": "China", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "India", "volts": "12v"},
+            {"Low": 40000, "High": 60000, "Country": "Europe", "volts": "12v"}]
+        }]
+    }]
+}]
